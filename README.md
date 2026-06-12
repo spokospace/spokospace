@@ -33,8 +33,8 @@
 >
 > ## 📊 GitHub Stats
 >
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spokospace&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spokospace&layout=compact&theme=github_dark&hide_border=true&count_private=true)
+> [![GitHub Stats](https://github.spoko.space/stats)](https://github.com/spokospace)
+> [![Top Languages](https://github.spoko.space/langs)](https://github.com/spokospace)
 >
 > ---
 >
