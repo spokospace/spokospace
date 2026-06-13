@@ -3,7 +3,7 @@
 > **Web developer** crafting fast, modern websites & apps — visible in Google & AI.
 >
 > [![Website](https://img.shields.io/badge/spoko.space-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://spoko.space)
-> [![Email](https://img.shields.io/badge/contact@spoko.space-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@spoko.space)
+> [![Email](https://img.shields.io/badge/contact@spoko.space-0d87cd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@spoko.space)
 >
 > ---
 >
@@ -33,8 +33,9 @@
 >
 > ## 📊 GitHub Stats
 >
-> [![GitHub Stats](https://github.spoko.space/stats)](https://github.com/spokospace)
-> [![Top Languages](https://github.spoko.space/langs)](https://github.com/spokospace)
+> <a href="https://github.com/spokospace"><img src="https://github.spoko.space/stats" alt="GitHub Stats" /></a>
+>
+> <a href="https://github.com/spokospace"><img src="https://github.spoko.space/langs" alt="Top Languages" /></a>
 >
 > ---
 >
