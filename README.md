@@ -1,11 +1,11 @@
 # Hey, I'm Szymon 👋
 
-<a href="https://github.com/spokospace">
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/profile?v=3&theme=light">
   <img src="https://github.spoko.space/profile?v=3" alt="GitHub Profile" />
 </picture>
-</a>
+
 
 > **Web developer** crafting fast, modern websites & apps — visible in Google & AI.
 >
