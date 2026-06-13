@@ -28,8 +28,8 @@
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?techs=Laravel,Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Node.js,WordPress&theme=light">
-  <img src="https://github.spoko.space/stack?techs=Laravel,Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Node.js,WordPress" alt="Tech Stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?v=2&techs=Laravel,Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Node.js,WordPress&theme=light">
+  <img src="https://github.spoko.space/stack?v=2&techs=Laravel,Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Node.js,WordPress" alt="Tech Stack" />
 </picture>
 </a>
 
@@ -37,22 +37,22 @@
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stats?theme=light">
-  <img src="https://github.spoko.space/stats" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stats?v=2&theme=light">
+  <img src="https://github.spoko.space/stats?v=2" alt="GitHub Stats" />
 </picture>
 </a>
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?theme=light">
-  <img src="https://github.spoko.space/langs" alt="Top Languages" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?v=2&theme=light">
+  <img src="https://github.spoko.space/langs?v=2" alt="Top Languages" />
 </picture>
 </a>
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/streak?theme=light">
-  <img src="https://github.spoko.space/streak" alt="Contribution Streak" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/streak?v=2&theme=light">
+  <img src="https://github.spoko.space/streak?v=2" alt="Contribution Streak" />
 </picture>
 </a>
 
