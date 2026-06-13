@@ -1,6 +1,11 @@
 # Hey, I'm Szymon 👋
 
-<a href="https://github.com/spokospace"><img src="https://github.spoko.space/profile?v=3" alt="GitHub Profile" /></a>
+<a href="https://github.com/spokospace">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/profile?v=3&theme=light">
+  <img src="https://github.spoko.space/profile?v=3" alt="GitHub Profile" />
+</picture>
+</a>
 
 > **Web developer** crafting fast, modern websites & apps — visible in Google & AI.
 >
@@ -21,15 +26,35 @@
 
 ## 🛠️ Tech Stack
 
-<a href="https://github.com/spokospace"><img src="https://github.spoko.space/stack?techs=Laravel,Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Node.js,WordPress" alt="Tech Stack" /></a>
+<a href="https://github.com/spokospace">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?techs=Laravel,Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Node.js,WordPress&theme=light">
+  <img src="https://github.spoko.space/stack?techs=Laravel,Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Node.js,WordPress" alt="Tech Stack" />
+</picture>
+</a>
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/spokospace"><img src="https://github.spoko.space/stats" alt="GitHub Stats" /></a>
+<a href="https://github.com/spokospace">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stats?theme=light">
+  <img src="https://github.spoko.space/stats" alt="GitHub Stats" />
+</picture>
+</a>
 
-<a href="https://github.com/spokospace"><img src="https://github.spoko.space/langs" alt="Top Languages" /></a>
+<a href="https://github.com/spokospace">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?theme=light">
+  <img src="https://github.spoko.space/langs" alt="Top Languages" />
+</picture>
+</a>
 
-<a href="https://github.com/spokospace"><img src="https://github.spoko.space/streak" alt="Contribution Streak" /></a>
+<a href="https://github.com/spokospace">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/streak?theme=light">
+  <img src="https://github.spoko.space/streak" alt="Contribution Streak" />
+</picture>
+</a>
 
 ---
 
