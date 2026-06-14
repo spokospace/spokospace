@@ -1,8 +1,8 @@
 # Hey, I'm Szymon <img height="24" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd&circle=1" align="absmiddle" />
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/profile?v=4&theme=light">
-  <img src="https://github.spoko.space/profile?v=4" alt="GitHub Profile" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/profile?v=3&theme=light">
+  <img src="https://github.spoko.space/profile?v=3" alt="GitHub Profile" />
 </picture>
 
 > **Web developer** crafting fast, modern websites & apps — visible in Google & AI.
@@ -60,6 +60,7 @@
 
 - <img height="14" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd&circle=1" align="absmiddle" /> **[polo-blue/sds](https://github.com/polo-blue/sds)** — Spoko Design System (MDX)
 - <img height="14" src="https://github.spoko.space/icon?name=code&color=0d87cd&circle=1" align="absmiddle" /> **[Related Posts WP REST API](https://github.com/spokospace/Related-posts-WP-REST-API)** — WordPress plugin for Headless setups (Astro, Next.js, Nuxt)
+- <img height="14" src="https://github.spoko.space/icon?name=eye&color=0d87cd" align="absmiddle" /> **[uper.pl](https://uper.pl/en/)** — Free Chrome/Edge/Brave extension: page analysis in a side panel (meta tags, Core Web Vitals, Schema.org)
 
 ---
 
