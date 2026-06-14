@@ -1,8 +1,8 @@
 # Hey, I'm Szymon <img height="24" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd&circle=1" align="absmiddle" />
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/profile?v=3&theme=light">
-  <img src="https://github.spoko.space/profile?v=3" alt="GitHub Profile" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/profile?v=4&theme=light">
+  <img src="https://github.spoko.space/profile?v=4" alt="GitHub Profile" />
 </picture>
 
 > **Web developer** crafting fast, modern websites & apps — visible in Google & AI.
@@ -26,8 +26,8 @@
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?v=2&techs=Laravel,Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Node.js,WordPress&theme=light">
-  <img src="https://github.spoko.space/stack?v=2&techs=Laravel,Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Node.js,WordPress" alt="Tech Stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?v=4&techs=Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Laravel,Node.js,WordPress&theme=light">
+  <img src="https://github.spoko.space/stack?v=4&techs=Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Laravel,Node.js,WordPress" alt="Tech Stack" />
 </picture>
 </a>
 
@@ -35,22 +35,22 @@
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stats?v=2&theme=light">
-  <img src="https://github.spoko.space/stats?v=2" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stats?v=4&theme=light">
+  <img src="https://github.spoko.space/stats?v=4" alt="GitHub Stats" />
 </picture>
 </a>
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?v=2&theme=light">
-  <img src="https://github.spoko.space/langs?v=2" alt="Top Languages" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?v=4&theme=light">
+  <img src="https://github.spoko.space/langs?v=4" alt="Top Languages" />
 </picture>
 </a>
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/streak?v=2&theme=light">
-  <img src="https://github.spoko.space/streak?v=2" alt="Contribution Streak" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/streak?v=4&theme=light">
+  <img src="https://github.spoko.space/streak?v=4" alt="Contribution Streak" />
 </picture>
 </a>
 
