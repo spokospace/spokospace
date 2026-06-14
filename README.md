@@ -1,4 +1,4 @@
-# Hey, I'm Szymon <img height="28" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd&circle=1" align="absmiddle" />
+# Hey, I'm Szymon <img height="28" style="height:28px" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd&circle=1" align="absmiddle" />
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/profile?v=4&theme=light">
@@ -12,17 +12,17 @@
 
 ---
 
-## <img height="32" src="https://github.spoko.space/icon?name=user&color=0d87cd&circle=1" align="absmiddle" /> About Me
+## <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=user&color=0d87cd&circle=1" align="absmiddle" /> About Me
 
-- <img height="18" src="https://github.spoko.space/icon?name=building&color=0d87cd" align="absmiddle" /> Running **[SPOKO SPACE](https://spoko.space)** — custom websites & web apps
-- <img height="18" src="https://github.spoko.space/icon?name=bolt&color=0d87cd" align="absmiddle" /> 15+ years of experience building for the web
-- <img height="18" src="https://github.spoko.space/icon?name=target&color=0d87cd" align="absmiddle" /> Focused on **performance** — hitting 90–100 in Google PageSpeed
-- <img height="18" src="https://github.spoko.space/icon?name=map-pin&color=0d87cd" align="absmiddle" /> Based in Bielsko-Biała, working with clients worldwide
-- <img height="18" src="https://github.spoko.space/icon?name=clock&color=0d87cd" align="absmiddle" /> Fun fact: I deliver a free quote within **24 hours**
+- <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=building&color=0d87cd&circle=1" align="absmiddle" /> Running **[SPOKO SPACE](https://spoko.space)** — custom websites & web apps
+- <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=bolt&color=0d87cd&circle=1" align="absmiddle" /> 15+ years of experience building for the web
+- <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=target&color=0d87cd&circle=1" align="absmiddle" /> Focused on **performance** — hitting 90–100 in Google PageSpeed
+- <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=map-pin&color=0d87cd&circle=1" align="absmiddle" /> Based in Bielsko-Biała, working with clients worldwide
+- <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=clock&color=0d87cd&circle=1" align="absmiddle" /> Fun fact: I deliver a free quote within **24 hours**
 
 ---
 
-## <img height="32" src="https://github.spoko.space/icon?name=code&color=0d87cd&circle=1" align="absmiddle" /> Tech Stack
+## <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=code&color=0d87cd&circle=1" align="absmiddle" /> Tech Stack
 
 <a href="https://github.com/spokospace">
 <picture>
@@ -31,7 +31,7 @@
 </picture>
 </a>
 
-## <img height="32" src="https://github.spoko.space/icon?name=trophy&color=0d87cd&circle=1" align="absmiddle" /> GitHub Stats
+## <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=trophy&color=0d87cd&circle=1" align="absmiddle" /> GitHub Stats
 
 <a href="https://github.com/spokospace">
 <picture>
@@ -56,11 +56,11 @@
 
 ---
 
-## <img height="32" src="https://github.spoko.space/icon?name=star&color=0d87cd&circle=1" align="absmiddle" /> Featured Projects
+## <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=star&color=0d87cd&circle=1" align="absmiddle" /> Featured Projects
 
-- <img height="18" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd&circle=1" align="absmiddle" /> **[polo-blue/sds](https://github.com/polo-blue/sds)** — Spoko Design System (MDX)
-- <img height="18" src="https://github.spoko.space/icon?name=code&color=0d87cd&circle=1" align="absmiddle" /> **[Related Posts WP REST API](https://github.com/spokospace/Related-posts-WP-REST-API)** — WordPress plugin for Headless setups (Astro, Next.js, Nuxt)
-- <img height="18" src="https://github.spoko.space/icon?name=eye&color=0d87cd" align="absmiddle" /> **[uper.pl](https://uper.pl/en/)** — Free Chrome/Edge/Brave extension: page analysis in a side panel (meta tags, Core Web Vitals, Schema.org, GTM)
+- <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd&circle=1" align="absmiddle" /> **[polo-blue/sds](https://github.com/polo-blue/sds)** — Spoko Design System (MDX)
+- <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=code&color=0d87cd&circle=1" align="absmiddle" /> **[Related Posts WP REST API](https://github.com/spokospace/Related-posts-WP-REST-API)** — WordPress plugin for Headless setups (Astro, Next.js, Nuxt)
+- <img height="32" style="height:32px" src="https://github.spoko.space/icon?name=eye&color=0d87cd&circle=1" align="absmiddle" /> **[uper.pl](https://uper.pl/en/)** — Free Chrome/Edge/Brave extension: page analysis in a side panel (meta tags, Core Web Vitals, Schema.org, GTM)
 
 ---
 
