@@ -42,15 +42,15 @@
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?v=4&theme=light">
-  <img src="https://github.spoko.space/langs?v=4" alt="Top Languages" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?v=5&theme=light">
+  <img src="https://github.spoko.space/langs?v=5" alt="Top Languages" />
 </picture>
 </a>
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/streak?v=4&theme=light">
-  <img src="https://github.spoko.space/streak?v=4" alt="Contribution Streak" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/streak?v=5&theme=light">
+  <img src="https://github.spoko.space/streak?v=5" alt="Contribution Streak" />
 </picture>
 </a>
 
