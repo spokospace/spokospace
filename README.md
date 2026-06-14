@@ -1,4 +1,4 @@
-# Hey, I'm Szymon <img height="24" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd" align="absmiddle" />
+# Hey, I'm Szymon <img height="24" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd&circle=1" align="absmiddle" />
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/profile?v=3&theme=light">
@@ -12,7 +12,7 @@
 
 ---
 
-## <img height="24" src="https://github.spoko.space/icon?name=rocket&color=0d87cd" align="absmiddle" /> About Me
+## <img height="24" src="https://github.spoko.space/icon?name=rocket&color=0d87cd&circle=1" align="absmiddle" /> About Me
 
 - <img height="14" src="https://github.spoko.space/icon?name=building&color=0d87cd" align="absmiddle" /> Running **[SPOKO SPACE](https://spoko.space)** — custom websites & web apps
 - <img height="14" src="https://github.spoko.space/icon?name=bolt&color=0d87cd" align="absmiddle" /> 15+ years of experience building for the web
@@ -22,7 +22,7 @@
 
 ---
 
-## <img height="24" src="https://github.spoko.space/icon?name=code&color=0d87cd" align="absmiddle" /> Tech Stack
+## <img height="24" src="https://github.spoko.space/icon?name=code&color=0d87cd&circle=1" align="absmiddle" /> Tech Stack
 
 <a href="https://github.com/spokospace">
 <picture>
@@ -31,7 +31,7 @@
 </picture>
 </a>
 
-## <img height="24" src="https://github.spoko.space/icon?name=trophy&color=0d87cd" align="absmiddle" /> GitHub Stats
+## <img height="24" src="https://github.spoko.space/icon?name=trophy&color=0d87cd&circle=1" align="absmiddle" /> GitHub Stats
 
 <a href="https://github.com/spokospace">
 <picture>
@@ -56,11 +56,12 @@
 
 ---
 
-## <img height="24" src="https://github.spoko.space/icon?name=star&color=0d87cd" align="absmiddle" /> Featured Projects
+## <img height="24" src="https://github.spoko.space/icon?name=star&color=0d87cd&circle=1" align="absmiddle" /> Featured Projects
 
-- <img height="14" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd" align="absmiddle" /> **[polo-blue/sds](https://github.com/polo-blue/sds)** — Spoko Design System (MDX)
-- <img height="14" src="https://github.spoko.space/icon?name=code&color=0d87cd" align="absmiddle" /> **[Related Posts WP REST API](https://github.com/spokospace/Related-posts-WP-REST-API)** — WordPress plugin for Headless setups (Astro, Next.js, Nuxt)
+- <img height="14" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd&circle=1" align="absmiddle" /> **[polo-blue/sds](https://github.com/polo-blue/sds)** — Spoko Design System (MDX)
+- <img height="14" src="https://github.spoko.space/icon?name=code&color=0d87cd&circle=1" align="absmiddle" /> **[Related Posts WP REST API](https://github.com/spokospace/Related-posts-WP-REST-API)** — WordPress plugin for Headless setups (Astro, Next.js, Nuxt)
 
 ---
 
 *Fast, modern website? [Let's talk.](https://spoko.space)*
+
