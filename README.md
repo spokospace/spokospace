@@ -1,11 +1,9 @@
-# Hey, I'm Szymon 👋
-
+# Hey, I'm Szymon <img height="20" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd" align="absmiddle" />
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/profile?v=3&theme=light">
   <img src="https://github.spoko.space/profile?v=3" alt="GitHub Profile" />
 </picture>
-
 
 > **Web developer** crafting fast, modern websites & apps — visible in Google & AI.
 >
@@ -14,17 +12,17 @@
 
 ---
 
-## 🚀 About Me
+## <img height="16" src="https://github.spoko.space/icon?name=rocket&color=0d87cd" align="absmiddle" /> About Me
 
-- 🏢 Running **[SPOKO SPACE](https://spoko.space)** — custom websites & web apps
-- ⚡ 15+ years of experience building for the web
-- 🎯 Focused on **performance** — hitting 90–100 in Google PageSpeed
-- 🌍 Based in Bielsko-Biała, working with clients worldwide
-- ⚡ Fun fact: I deliver a free quote within **24 hours**
+- <img height="14" src="https://github.spoko.space/icon?name=building&color=0d87cd" align="absmiddle" /> Running **[SPOKO SPACE](https://spoko.space)** — custom websites & web apps
+- <img height="14" src="https://github.spoko.space/icon?name=bolt&color=0d87cd" align="absmiddle" /> 15+ years of experience building for the web
+- <img height="14" src="https://github.spoko.space/icon?name=target&color=0d87cd" align="absmiddle" /> Focused on **performance** — hitting 90–100 in Google PageSpeed
+- <img height="14" src="https://github.spoko.space/icon?name=map-pin&color=0d87cd" align="absmiddle" /> Based in Bielsko-Biała, working with clients worldwide
+- <img height="14" src="https://github.spoko.space/icon?name=clock&color=0d87cd" align="absmiddle" /> Fun fact: I deliver a free quote within **24 hours**
 
 ---
 
-## 🛠️ Tech Stack
+## <img height="16" src="https://github.spoko.space/icon?name=code&color=0d87cd" align="absmiddle" /> Tech Stack
 
 <a href="https://github.com/spokospace">
 <picture>
@@ -33,7 +31,7 @@
 </picture>
 </a>
 
-## 📊 GitHub Stats
+## <img height="16" src="https://github.spoko.space/icon?name=trophy&color=0d87cd" align="absmiddle" /> GitHub Stats
 
 <a href="https://github.com/spokospace">
 <picture>
@@ -58,10 +56,10 @@
 
 ---
 
-## 📌 Featured Projects
+## <img height="16" src="https://github.spoko.space/icon?name=star&color=0d87cd" align="absmiddle" /> Featured Projects
 
-- 🎨 **[polo-blue/sds](https://github.com/polo-blue/sds)** — Spoko Design System (MDX)
-- 🔌 **[Related Posts WP REST API](https://github.com/spokospace/Related-posts-WP-REST-API)** — WordPress plugin for Headless setups (Astro, Next.js, Nuxt)
+- <img height="14" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd" align="absmiddle" /> **[polo-blue/sds](https://github.com/polo-blue/sds)** — Spoko Design System (MDX)
+- <img height="14" src="https://github.spoko.space/icon?name=code&color=0d87cd" align="absmiddle" /> **[Related Posts WP REST API](https://github.com/spokospace/Related-posts-WP-REST-API)** — WordPress plugin for Headless setups (Astro, Next.js, Nuxt)
 
 ---
 
