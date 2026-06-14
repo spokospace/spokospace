@@ -5,7 +5,7 @@
   <img src="https://github.spoko.space/profile?v=4" alt="GitHub Profile" />
 </picture>
 
-> **Web developer** crafting fast, modern websites & apps — visible in Google & AI.
+> **Web developer** crafting fast, modern websites & apps.
 >
 > [![Website](https://img.shields.io/badge/spoko.space-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://spoko.space)
 > [![Email](https://img.shields.io/badge/contact@spoko.space-0d87cd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@spoko.space)
@@ -18,7 +18,6 @@
 - <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=bolt&color=0d87cd" align="absmiddle" /> 15+ years of experience building for the web
 - <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=target&color=0d87cd" align="absmiddle" /> Focused on **performance** — hitting 90–100 in Google PageSpeed
 - <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=map-pin&color=0d87cd" align="absmiddle" /> Based in Bielsko-Biała, working with clients worldwide
-- <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=clock&color=0d87cd" align="absmiddle" /> Fun fact: I deliver a free quote within **24 hours**
 
 ---
 
