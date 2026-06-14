@@ -26,8 +26,8 @@
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?v=4&techs=Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Laravel,Node.js,WordPress&theme=light">
-  <img src="https://github.spoko.space/stack?v=4&techs=Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Laravel,Node.js,WordPress" alt="Tech Stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?v=5&techs=Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Laravel,Node.js,WordPress&theme=light">
+  <img src="https://github.spoko.space/stack?v=5&techs=Vue,Astro,TypeScript,Tailwind,UnoCSS,PHP,Laravel,Node.js,WordPress" alt="Tech Stack" />
 </picture>
 </a>
 
