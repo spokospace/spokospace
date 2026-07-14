@@ -25,8 +25,8 @@
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?v=7&techs=TypeScript%2CJavaScript%2CPHP%2CVue%2CAstro%2CLaravel%2CTailwind%2CUnoCSS%2CNode.js%2CWordPress%2CMySQL%2CSupabase%2CFigma&theme=light">
-  <img src="https://github.spoko.space/stack?v=7&techs=TypeScript%2CJavaScript%2CPHP%2CVue%2CAstro%2CLaravel%2CTailwind%2CUnoCSS%2CNode.js%2CWordPress%2CMySQL%2CSupabase%2CFigma" alt="Tech Stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?v=7&techs=TypeScript%2CJavaScript%2CPHP%2CVue%2CAstro%2CReact%2CLaravel%2CTailwind%2CUnoCSS%2CNode.js%2CWordPress%2CMySQL%2CSupabase%2CFigma&theme=light">
+  <img src="https://github.spoko.space/stack?v=7&techs=TypeScript%2CJavaScript%2CPHP%2CVue%2CAstro%2CReact%2CLaravel%2CTailwind%2CUnoCSS%2CNode.js%2CWordPress%2CMySQL%2CSupabase%2CFigma" alt="Tech Stack" />
 </picture>
 </a>
 
