@@ -75,8 +75,8 @@
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?v=9&theme=light&chamfer=12">
-  <img src="https://github.spoko.space/langs?v=9&chamfer=12" alt="Top Languages" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?v=9&theme=light&chamfer=12&exclude_repo=bold_wp_theme,GoogleMapRoute">
+  <img src="https://github.spoko.space/langs?v=9&chamfer=12&exclude_repo=bold_wp_theme,GoogleMapRoute" alt="Top Languages" width="100%" />
 </picture>
 </a>
 
