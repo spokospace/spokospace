@@ -8,7 +8,7 @@
 
 ### Custom websites & web apps — fast, modern, built to last.
 
-[**spoko.space**](https://spoko.space) · [uper.pl](https://uper.pl) · [pdf.uper.pl](https://pdf.uper.pl) · [Open source](#open-source)
+[**spoko.space**](https://spoko.space) · [uper.pl](https://uper.pl) · [pdf.uper.pl](https://pdf.uper.pl)
 
 </div>
 
@@ -41,7 +41,7 @@
 
 ---
 
-## <img height="30" style="height:30px" src="https://github.spoko.space/icon?name=package&color=0d87cd&circle=1&opacity=0.1" align="absmiddle" /> Open Source
+## <img height="30" style="height:30px" src="https://github.spoko.space/icon?name=folder&color=0d87cd&circle=1&opacity=0.1" align="absmiddle" /> Open Source
 
 <table>
   <tr>
@@ -63,21 +63,21 @@
 <a href="https://github.com/spokospace">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stats?v=4&theme=light">
-  <img src="https://github.spoko.space/stats?v=4" alt="GitHub Stats" />
+  <img src="https://github.spoko.space/stats?v=4" alt="GitHub Stats" width="100%" />
 </picture>
 </a>
 
 <a href="https://github.com/spokospace">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?v=6&theme=light">
-  <img src="https://github.spoko.space/langs?v=6" alt="Top Languages" />
+  <img src="https://github.spoko.space/langs?v=6" alt="Top Languages" width="100%" />
 </picture>
 </a>
 
 <a href="https://github.com/spokospace">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/streak?v=5&theme=light">
-  <img src="https://github.spoko.space/streak?v=5" alt="Contribution Streak" />
+  <img src="https://github.spoko.space/streak?v=5" alt="Contribution Streak" width="100%" />
 </picture>
 </a>
 
