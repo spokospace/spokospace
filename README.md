@@ -34,8 +34,8 @@
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?v=8&techs=TypeScript%2CJavaScript%2CPHP%2CVue%2CAstro%2CReact%2CLaravel%2CTailwind%2CUnoCSS%2CNode.js%2CWordPress%2CMySQL%2CSupabase%2CFigma&theme=light&chamfer=12">
-  <img src="https://github.spoko.space/stack?v=8&techs=TypeScript%2CJavaScript%2CPHP%2CVue%2CAstro%2CReact%2CLaravel%2CTailwind%2CUnoCSS%2CNode.js%2CWordPress%2CMySQL%2CSupabase%2CFigma&chamfer=12" alt="Tech Stack" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stack?v=9&techs=TypeScript%2CJavaScript%2CPHP%2CVue%2CAstro%2CReact%2CLaravel%2CTailwind%2CUnoCSS%2CNode.js%2CWordPress%2CMySQL%2CSupabase%2CFigma&theme=light&chamfer=12&title=0">
+  <img src="https://github.spoko.space/stack?v=9&techs=TypeScript%2CJavaScript%2CPHP%2CVue%2CAstro%2CReact%2CLaravel%2CTailwind%2CUnoCSS%2CNode.js%2CWordPress%2CMySQL%2CSupabase%2CFigma&chamfer=12&title=0" alt="Tech Stack" width="100%" />
 </picture>
 </a>
 
@@ -62,22 +62,26 @@
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stats?v=5&theme=light&chamfer=12">
-  <img src="https://github.spoko.space/stats?v=5&chamfer=12" alt="GitHub Stats" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/stats?v=6&theme=light&chamfer=12&title=0">
+  <img src="https://github.spoko.space/stats?v=6&chamfer=12&title=0" alt="GitHub Stats" width="100%" />
 </picture>
 </a>
 
-<a href="https://github.com/spokospace">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?v=7&theme=light&chamfer=12">
-  <img src="https://github.spoko.space/langs?v=7&chamfer=12" alt="Top Languages" width="100%" />
-</picture>
-</a>
+<br />
 
 <a href="https://github.com/spokospace">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/streak?v=6&theme=light&chamfer=12">
-  <img src="https://github.spoko.space/streak?v=6&chamfer=12" alt="Contribution Streak" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/langs?v=8&theme=light&chamfer=12">
+  <img src="https://github.spoko.space/langs?v=8&chamfer=12" alt="Top Languages" width="100%" />
+</picture>
+</a>
+
+<br />
+
+<a href="https://github.com/spokospace">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/streak?v=7&theme=light&chamfer=12">
+  <img src="https://github.spoko.space/streak?v=7&chamfer=12" alt="Contribution Streak" width="100%" />
 </picture>
 </a>
 
