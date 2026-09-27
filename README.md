@@ -8,7 +8,13 @@
 
 ### Custom websites & web apps — fast, modern, built to last.
 
-[**spoko.space**](https://spoko.space) · [uper.pl](https://uper.pl) · [pdf.uper.pl](https://pdf.uper.pl)
+<p>
+  <a href="https://spoko.space" title="spoko.space — website"><img height="40" src="https://github.spoko.space/icon?name=globe&color=0d87cd&size=40&circle=1&opacity=0.12" alt="Website" /></a>
+  &nbsp;
+  <a href="https://github.com/spokospace" title="GitHub — @spokospace"><img height="40" src="https://github.spoko.space/icon?name=github&color=0d87cd&size=40&circle=1&opacity=0.12" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/szymonberski/" title="LinkedIn — Szymon Berski"><img height="40" src="https://github.spoko.space/icon?name=linkedin&color=0d87cd&size=40&circle=1&opacity=0.12" alt="LinkedIn" /></a>
+</p>
 
 </div>
 
