@@ -1,14 +1,23 @@
-# Hey, I'm Szymon <img height="30" style="height:30px" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd" align="absmiddle" />
+<div align="center">
+  <a href="https://spoko.space">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="logo-light.svg">
+      <img src="logo-dark.svg" alt="spoko.space" width="360">
+    </picture>
+  </a>
+
+### Custom websites & web apps — fast, modern, built to last.
+
+[**spoko.space**](https://spoko.space) · [uper.pl](https://uper.pl) · [pdf.uper.pl](https://pdf.uper.pl) · [Open source](#open-source)
+
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.spoko.space/profile?v=4&theme=light">
-  <img src="https://github.spoko.space/profile?v=4" alt="GitHub Profile" />
+  <img src="https://github.spoko.space/profile?v=4" alt="GitHub Profile" width="100%" />
 </picture>
-
-> **Web developer** crafting fast, modern websites & apps.
->
-> [![Website](https://img.shields.io/badge/spoko.space-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://spoko.space)
-> [![Email](https://img.shields.io/badge/contact@spoko.space-0d87cd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@spoko.space)
 
 ---
 
@@ -29,6 +38,25 @@
   <img src="https://github.spoko.space/stack?v=7&techs=TypeScript%2CJavaScript%2CPHP%2CVue%2CAstro%2CReact%2CLaravel%2CTailwind%2CUnoCSS%2CNode.js%2CWordPress%2CMySQL%2CSupabase%2CFigma" alt="Tech Stack" />
 </picture>
 </a>
+
+---
+
+## <img height="30" style="height:30px" src="https://github.spoko.space/icon?name=package&color=0d87cd&circle=1&opacity=0.1" align="absmiddle" /> Open Source
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/spokospace/filament-ops-notify">Filament Ops Notify</a></b><br>
+      Ops notifications (inquiries, errors, builds) for Laravel + Filament panels, delivered to Telegram.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/spokospace/Enhanced-WP-REST-API">Enhanced WP REST API</a></b><br>
+      Extends WordPress REST API with additional fields and optimizations for headless setups (Astro, Next.js, Nuxt).
+    </td>
+  </tr>
+</table>
+
+---
 
 ## <img height="30" style="height:30px" src="https://github.spoko.space/icon?name=trophy&color=0d87cd&circle=1&opacity=0.1" align="absmiddle" /> GitHub Stats
 
@@ -52,14 +80,6 @@
   <img src="https://github.spoko.space/streak?v=5" alt="Contribution Streak" />
 </picture>
 </a>
-
----
-
-## <img height="30" style="height:30px" src="https://github.spoko.space/icon?name=star&color=0d87cd&circle=1&opacity=0.1" align="absmiddle" /> Featured Projects
-
-- <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=sparkles&color=0d87cd" align="absmiddle" /> **[polo-blue/sds](https://github.com/polo-blue/sds)** — Spoko Design System (MDX)
-- <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=code&color=0d87cd" align="absmiddle" /> **[Related Posts WP REST API](https://github.com/spokospace/Related-posts-WP-REST-API)** — WordPress plugin for Headless setups (Astro, Next.js, Nuxt)
-- <img height="24" style="height:24px" src="https://github.spoko.space/icon?name=eye&color=0d87cd" align="absmiddle" /> **[uper.pl](https://uper.pl/en/)** — Free Chrome/Edge/Brave extension: page analysis in a side panel (meta tags, Core Web Vitals, Schema.org, GTM)
 
 ---
 
