@@ -58,6 +58,16 @@
       Extends WordPress REST API with additional fields and optimizations for headless setups (Astro, Next.js, Nuxt).
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/spokospace/spoko-labels">spoko labels</a></b><br>
+      Print labels on NIIMBOT printers straight from the browser over Web Bluetooth. No driver, no desktop app.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/spokospace/astro-split-build">astro-split-build</a></b><br>
+      Build a large multi-locale Astro site one locale at a time, merge the builds, and fail on broken assets, links and hreflang.
+    </td>
+  </tr>
 </table>
 
 ---
